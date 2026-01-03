@@ -46,3 +46,6 @@ build/
 
 ### Secrets ###
 .env
+
+ARCHITECTURE.md
+ERD.md
