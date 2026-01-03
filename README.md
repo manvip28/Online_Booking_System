@@ -103,3 +103,12 @@ src/main/java/com/app/booking
 ├── repository/         # JPA Repositories
 └── service/            # Business Logic (Caching, Transactions)
 ```
+
+## Entity Relationship Diagram (ERD)
+
+![ERD Diagram](assets/erd.png)
+
+## System Architecture Diagram
+
+![Architecture Diagram](assets/architecture.png)
+
